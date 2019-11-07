@@ -21,5 +21,6 @@ namespace Multi_Form_and_Panel
         public string Gender { get => gender; set => gender = value; }
         public string StartDate { get => startDate; set => startDate = value; }
         public string EndDate { get => endDate; set => endDate = value; }
+
     }
 }
